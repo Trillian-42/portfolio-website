@@ -137,9 +137,9 @@ not sure that this even gets used in his--i think he omitted it
 
 
 .site-section-inside {
-    width: 80%;
-    max-width: 1200px;
-    margin-left: auto;
+    width: 90%;
+    max-width: 1600px;
+    margin-left: 150px;
     margin-right: auto;
 
 }
@@ -156,7 +156,13 @@ not sure that this even gets used in his--i think he omitted it
     background: #EFEFEF;
 }
 
-
+.section-header-testimonials {
+    font-size: 30px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: 300;
+    color: #777;
+}
 /*About*/
 
 .about {
@@ -169,8 +175,9 @@ not sure that this even gets used in his--i think he omitted it
 
 .service-box {
     display: inline-block;
-    width: 24%;
-    padding: 0px 30px;
+    text-align: center;
+    width: 20%;
+    padding: 0px 15px;
     line-height: 1;
 }
 
